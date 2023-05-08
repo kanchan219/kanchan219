@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanchan Thorat</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-<img src="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanchan219&label=Profile%20views&color=0e75b6&style=flat" alt="kanchan219" /> </p>
+ 
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
